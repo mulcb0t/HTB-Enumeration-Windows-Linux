@@ -69,4 +69,4 @@ The goal of enumeration is to discover detailed technical information about the 
 
 ## Author
 
-Mulcb0t 
+Bc. Peter Mulik **(mulcb0t)**
