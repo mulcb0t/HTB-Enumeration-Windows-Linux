@@ -50,7 +50,7 @@ The goal of enumeration is to discover detailed technical information about the 
 
 **Target IP:** `10.10.11.67`  
 **OS:** `Debian 12`
-**Web Server:** `Nginx 1.22.1`  
+**Web Server:** `Nginx 1.22.1`
 **Framework:** `Laravel`
 
 ## Key results:
