@@ -61,11 +61,8 @@ The goal of enumeration is to discover detailed technical information about the 
 4. Hidden directories via `Gobuster`
 5. Web security headers and known vulnerabilities identified via `Nikto`
 
----
 
-## Access to the project
-
-Full technical report available in:
+## Access to the project:
 
 [Enumerácia.pdf](./Enumerácia.pdf) (written in Slovak)
 
