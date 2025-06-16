@@ -64,8 +64,9 @@ The goal of enumeration is to discover detailed technical information about the 
 
 ## Access to the project:
 
-[Enumerácia.pdf](./Enumerácia.pdf) (written in Slovak)
+*Written in Slovak language*
 
+[Enumerácia.pdf](./Enumerácia.pdf) 
 
 ## Author
 
